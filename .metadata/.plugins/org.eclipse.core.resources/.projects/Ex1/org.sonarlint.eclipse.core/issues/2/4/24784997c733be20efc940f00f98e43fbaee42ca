@@ -1,0 +1,104 @@
+
+k	java:S106E"9Replace this use of System.out or System.err by a logger.(ìÍ¦‡8ÔÔ£ùë0HRMAJORZ
+CODE_SMELL
+ƒ	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªŸ´è8ÔÔ£ùë0HûRMINORZ
+CODE_SMELL
+ƒ	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀØİ¾8ÔÔ£ùë0HıRMINORZ
+CODE_SMELL
+‚
+java:S2095<"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(²’ÅĞøÿÿÿÿ8ÔÔ£ùë0H€RBLOCKERZBUG
+‚
+java:S2095e"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(²’ÅĞøÿÿÿÿ8ÔÔ£ùë0H„RBLOCKERZBUG
+‹
+java:S2293M"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÚÌ²h8ÔÔ£ùë0HõRMINORZ
+CODE_SMELL
+Y
+java:S3010"!Remove this assignment of "conn".(í–Œíùÿÿÿÿ8Ç—îè0HóRMAJORZ
+CODE_SMELL
+¨
+java:S1319J"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(íÒÜóúÿÿÿÿ8ÔÔ£ùë0H÷RMINORZ
+CODE_SMELL
+q
+java:S1117-"9Rename "pstmt" which hides the field declared at line 12.(²’ÅĞøÿÿÿÿ8ÔÔ£ùë0H‰RMAJORZ
+CODE_SMELL
+„	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(££È„8“Âûë0H¿RMINORZ
+CODE_SMELL
+q
+java:S2696v"6Make the enclosing method "static" or remove this set.(Ğî½•ÿÿÿÿÿ8ÔÔ£ùë0H•RCRITICALZ
+CODE_SMELL
+k	java:S106]"9Replace this use of System.out or System.err by a logger.(ìÍ¦‡8ÔÔ£ùë0HRMAJORZ
+CODE_SMELL
+‚
+java:S2095O"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(²’ÅĞøÿÿÿÿ8ÔÔ£ùë0HRBLOCKERZBUG
+q
+java:S2696 "6Make the enclosing method "static" or remove this set.(Ğî½•ÿÿÿÿÿ8ÔÔ£ùë0H‡RCRITICALZ
+CODE_SMELL
+k	java:S106l"9Replace this use of System.out or System.err by a logger.(ìÍ¦‡8ÔÔ£ùë0H“RMAJORZ
+CODE_SMELL
+q
+java:S1117t"9Rename "pstmt" which hides the field declared at line 12.(²’ÅĞøÿÿÿÿ8ÔÔ£ùë0H”RMAJORZ
+CODE_SMELL
+ƒ	java:S117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Çöï8ÔÔ£ùë0HşRMINORZ
+CODE_SMELL
+‚
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(²’ÅĞøÿÿÿÿ8ÔÔ£ùë0H‚RBLOCKERZBUG
+q
+java:S1117"9Rename "pstmt" which hides the field declared at line 12.(²’ÅĞøÿÿÿÿ8ÔÔ£ùë0H†RMAJORZ
+CODE_SMELL
+q
+java:S2696."6Make the enclosing method "static" or remove this set.(Ğî½•ÿÿÿÿÿ8ÔÔ£ùë0HŠRCRITICALZ
+CODE_SMELL
+‚
+java:S2095-"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(²’ÅĞøÿÿÿÿ8ÔÔ£ùë0H…RBLOCKERZBUG
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ìÍ¦‡8Ç—îè0HòRMAJORZ
+CODE_SMELL
+q
+java:S2696Q"6Make the enclosing method "static" or remove this set.(Ğî½•ÿÿÿÿÿ8ÔÔ£ùë0HRCRITICALZ
+CODE_SMELL
+q
+java:S2696g"6Make the enclosing method "static" or remove this set.(Ğî½•ÿÿÿÿÿ8ÔÔ£ùë0H’RCRITICALZ
+CODE_SMELL
+l	java:S106"9Replace this use of System.out or System.err by a logger.(ìÍ¦‡8“Âûë0HÇRMAJORZ
+CODE_SMELL
+k	java:S106%"9Replace this use of System.out or System.err by a logger.(ìÍ¦‡8ÔÔ£ùë0HˆRMAJORZ
+CODE_SMELL
+ˆ	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öóòÿÿÿÿÿ8ÔÔ£ùë0HüRMINORZ
+CODE_SMELL
+q
+java:S1117O"9Rename "pstmt" which hides the field declared at line 12.(²’ÅĞøÿÿÿÿ8ÔÔ£ùë0HRMAJORZ
+CODE_SMELL
+k	java:S1064"9Replace this use of System.out or System.err by a logger.(ìÍ¦‡8ÔÔ£ùë0H‹RMAJORZ
+CODE_SMELL
+r
+java:S1117‰"9Rename "pstmt" which hides the field declared at line 12.(²’ÅĞøÿÿÿÿ8“Âûë0HÃRMAJORZ
+CODE_SMELL
+q
+java:S1117<"9Rename "pstmt" which hides the field declared at line 12.(²’ÅĞøÿÿÿÿ8ÔÔ£ùë0HŒRMAJORZ
+CODE_SMELL
+‚
+java:S2095t"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(²’ÅĞøÿÿÿÿ8ÔÔ£ùë0HƒRBLOCKERZBUG
+s
+java:S6437"6Revoke and change this password, as it is compromised.(í–Œíùÿÿÿÿ8Ç—îè0HîRBLOCKERZVULNERABILITY
+ƒ
+java:S2095‰"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(²’ÅĞøÿÿÿÿ8“Âûë0HÀRBLOCKERZBUG
+l	java:S106‚"9Replace this use of System.out or System.err by a logger.(ìÍ¦‡8ÔÔ£ùë0H–RMAJORZ
+CODE_SMELL
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó„€úÿÿÿÿ8ÔÔ£ùë0HúRMINORZ
+CODE_SMELL
+a
+java:S1068")Remove this unused "pstmt" private field.(»¾õŞıÿÿÿÿ8Ç—îè0HğRMAJORZ
+CODE_SMELL
+q
+java:S1117e"9Rename "pstmt" which hides the field declared at line 12.(²’ÅĞøÿÿÿÿ8ÔÔ£ùë0H‘RMAJORZ
+CODE_SMELL
+ƒ	java:S117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Óã„8ÔÔ£ùë0HÿRMINORZ
+CODE_SMELL
+‰	java:S117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¡ëİúÿÿÿÿ8ƒ¢æüë0HØRMINORZ
+CODE_SMELL
+ƒ
+java:S2095–"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(²’ÅĞøÿÿÿÿ8ƒ¢æüë0HÙRBLOCKERZBUG
+r
+java:S1117–"9Rename "pstmt" which hides the field declared at line 12.(²’ÅĞøÿÿÿÿ8ƒ¢æüë0HÚRMAJORZ
+CODE_SMELL
+l	java:S106š"9Replace this use of System.out or System.err by a logger.(ìÍ¦‡8ƒ¢æüë0HÛRMAJORZ
+CODE_SMELL

@@ -1,0 +1,28 @@
+
+q
+java:S2696$"6Make the enclosing method "static" or remove this set.(Ğî½•ÿÿÿÿÿ8ô×Òè0HRCRITICALZ
+CODE_SMELL
+q
+java:S26965"6Make the enclosing method "static" or remove this set.(ı²Ÿ úÿÿÿÿ8§¢Ê‘è0H§RCRITICALZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ìÍ¦‡8œŠ»è0H¹RMAJORZ
+CODE_SMELL
+k	java:S106="9Replace this use of System.out or System.err by a logger.(ìÍ¦‡8§¢Ê‘è0H¡RMAJORZ
+CODE_SMELL
+q
+java:S2696""6Make the enclosing method "static" or remove this set.(ı²Ÿ úÿÿÿÿ8ô×Òè0H RCRITICALZ
+CODE_SMELL
+s
+java:S6437"6Revoke and change this password, as it is compromised.(í–Œíùÿÿÿÿ8ÿÚ×è0HºRBLOCKERZVULNERABILITY
+ƒ	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ª¢Á8§¢Ê‘è0H¦RMINORZ
+CODE_SMELL
+Y
+java:S3010"!Remove this assignment of "conn".(í–Œíùÿÿÿÿ8ô×Òè0H¼RMAJORZ
+CODE_SMELL
+k	java:S106-"9Replace this use of System.out or System.err by a logger.(ìÍ¦‡8œŠ»è0HRMAJORZ
+CODE_SMELL
+ƒ	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¬©8¶Ù€‰è0H©RMINORZ
+CODE_SMELL
+„
+java:S1450"QRemove the "rs" field and declare it as a local variable in the relevant methods.(ñµ÷‘8ô×Òè0H¨RMINORZ
+CODE_SMELL

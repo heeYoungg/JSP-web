@@ -1,0 +1,13 @@
+AbstractTextEditor.Color.Background=28,31,34
+AbstractTextEditor.Color.Background.SystemDefault=false
+AbstractTextEditor.Color.FindScope=17,17,17
+AbstractTextEditor.Color.SelectionBackground.SystemDefault=false
+AbstractTextEditor.Color.SelectionForeground.SystemDefault=false
+currentIPColor=47,52,54
+eclipse.preferences.version=1
+org.eclipse.wst.jsdt.internal.ui.javaeditor.JavaElementHyperlinkDetector=true
+org.eclipse.wst.jsdt.web.ui.JSDTHyperlinkDetector.HTML=true
+org.eclipse.wst.jsdt.web.ui.JSDTHyperlinkDetector.SCRIPT=true
+org.eclipse.wst.jsdt.web.ui.JSDTHyperlinkDetector.SCRIPT.events=true
+printMarginColor=208,208,208
+spellingEnabled=false
